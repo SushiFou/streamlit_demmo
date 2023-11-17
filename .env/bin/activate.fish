@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/Yann_Workspace/ESILV/streamlit/.env"
+set -gx VIRTUAL_ENV "/Users/Yann_Workspace/ESILV/streamlit/streamlit_demo/.env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
